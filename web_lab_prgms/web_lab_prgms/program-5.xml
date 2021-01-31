@@ -1,0 +1,27 @@
+<?xml-stylesheet type="text/css" href="program-5.css"?>
+<students>
+	<student>
+		<usn>USN:1MV17CS001</usn>
+		<name>NAME:Arun</name>
+		<college>COLLEGE:SIR MVIT</college>
+		<branch>BRANCH:Computer Science</branch>
+		<year>YEAR:2017</year>
+		<email>E-MAIL:arun@xyz.com</email>
+	</student>
+	<student>
+		<usn>USN:1MV17CS002</usn>
+		<name>NAME:Bhavith</name>
+		<college>COLLEGE:SIR MVIT</college>
+		<branch>BRANCH:Computer Science</branch>
+		<year>YEAR:2017</year>
+		<email>E-MAIL:bhavith@xyz.com</email>
+	</student>
+	<student>
+		<usn>USN:1MV17CS003</usn>
+		<name>NAME:Chandra</name>
+		<college>COLLEGE:SIR MVIT</college>
+		<branch>BRANCH:Computer Science</branch>
+		<year>YEAR:2017</year>
+		<email>E-MAIL:chandra@xyz.com</email>
+	</student>
+</students>
